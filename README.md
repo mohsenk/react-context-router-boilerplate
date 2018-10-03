@@ -9,5 +9,5 @@ Feel free to fork this project.
 ```sh
 npm i
 npm start
-Go to http://localhost:3000/
 ```
+Go to http://localhost:3000/
