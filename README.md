@@ -11,6 +11,7 @@ Feel free to fork this project.
 
 ## Usage
 
+Inside project folder :
 ```sh
 npm i
 npm start
